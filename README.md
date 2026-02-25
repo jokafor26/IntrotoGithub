@@ -6,10 +6,10 @@ This is a quick lab on how to use github which is service where projects like th
 
 I logged into my host instance. I made a practice project called Demo into my github account which I able to access through the cli and was able to make a README.md which is used on github to view projects. Using the git command, I was able to add the current directory to the git version control system and commit it which is basically saving changes. I ran into an error because of spelling and it is always important to check syntax when in the cli. Then checking my account online and making sure everything set to create a repository. 
  
- ![Image](https://github.com/user-attachments/assets/cc64701e-1496-4574-8f00-f2bc543ba996)
+<img width="828" height="744" alt="image" src="https://github.com/user-attachments/assets/e0c67123-9952-4668-971a-64a0a5b911aa" />
 
-![Image](https://github.com/user-attachments/assets/0c4041e5-0c1c-4730-88a0-fe1c152b7f22)
+<img width="481" height="530" alt="image" src="https://github.com/user-attachments/assets/41a11390-26f3-4f1e-8511-352f89474e99" />
 
 My repository called Demo and connected my github account repository to my hot as well as sync my local repository into github online. Using the git command I’m able to remote access my repository and push my project remotely from my cli.
  
-![Image](https://github.com/user-attachments/assets/d0b72a76-7002-48e7-ad56-0b6b15b13171)
+<img width="715" height="643" alt="image" src="https://github.com/user-attachments/assets/261acb7b-3110-44d7-9c9c-8054a7d12847" />
